@@ -1,0 +1,7 @@
+.countryList{
+    max-width: 1262px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid blue;
+}

@@ -1,0 +1,44 @@
+.selectElement{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.selectElement__button{
+    width: 80px;
+    /*height: 30px;*/
+    border:1px solid black;
+    border-radius: 8px;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-left: 20px;
+    font-size: 20px;
+    padding: 5px;
+}
+.selectElement__button:hover{
+    background-color: gray;
+}
+.element{
+    display: inline-block;
+}
+.element select{
+    width: 180px;
+    font-size: 20px;
+    padding: 5px;
+    transition: 0.3s;
+}
+.element label{
+    font-size: 24px;
+}
+.element  select option{
+    cursor: pointer;
+}
+
+.element_search{
+    width: 180px;
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 20px;
+}
+.element_label{
+    font-size: 24px;
+}
